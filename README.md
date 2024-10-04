@@ -53,7 +53,7 @@ This game is a car collecting and trading simulation where you can earn money, o
 ### **Getting Started**
 1. **Launch the Game**: Once you've run the script, the game will start in full-screen mode.
 2. **Main Menu**: In the main menu, you will see different options such as:
-   - Open Boxes
+   - Open Boxes 20k each
    - View Inventory
    - Participate in Drag Races
    - Manage Safe Deposits
@@ -68,7 +68,8 @@ This game is a car collecting and trading simulation where you can earn money, o
 1. **Earning Money**: Simply click anywhere on the main screen to earn money. Each click gives you a fixed amount, and you can upgrade this by purchasing the "Upgrade Click Power".
    
 2. **Opening Boxes**:
-   - Go to the **Boxes** section to buy and open different boxes.
+   - Go to the **Boxes** section or just click on open box to buy and open different boxes.
+   - Each box cost from 20K to 10M but the open box button will cost 20k for each car
    - Each box contains cars of varying rarities. The rarer the car, the faster and more valuable it will be.
    - Opening boxes costs money, so you need to have sufficient funds to unlock new cars.
    
